@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhabalar 👋
 
 <a href="https://www.kemsan.com/">Kemsan</a>; Et Kemik Unu Fabrikası, Soğuk Hava Depoları , Yağ Üretim Tesisi, Et Entegre Tesisi olmak üzere 4 farklı dalda hizmet veren grup şirketidir.
 
@@ -11,6 +11,6 @@ Kemsan San. Tic. Ltd. Şti.;
 
 <li>Yağ Üretim Tesisi’nde sabun ve hayvansal yemler için 2 farklı kategoride don yağı üretimi gerçekleştirir.</li>
 
-<li>Et Kombinası’nda büyük ve küçük baş hayvanların kesimlerinin ve tasnifi yapılır.<li>
+<li>Et Kombinası’nda büyük ve küçük baş hayvanların kesimlerinin ve tasnifi yapılır.</li>
   
   </ul>
