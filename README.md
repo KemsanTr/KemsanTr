@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**KemsanTr/KemsanTr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.kemsan.com/">Kemsan</a>; Et Kemik Unu Fabrikası, Soğuk Hava Depoları , Yağ Üretim Tesisi, Et Entegre Tesisi olmak üzere 4 farklı dalda hizmet veren grup şirketidir.
 
-Here are some ideas to get you started:
+Kemsan San. Tic. Ltd. Şti.;
+<ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li>Et Kemik Unu Fabrikası’nda kanatlı hayvanlara yem üretimi gerçekleştirir.</li>
+
+<li>Soğuk Hava Depolarında et, tavuk, balık gibi besinler için şok ve soğuk hava odaları bulunur.</li>
+
+<li>Yağ Üretim Tesisi’nde sabun ve hayvansal yemler için 2 farklı kategoride don yağı üretimi gerçekleştirir.</li>
+
+<li>Et Kombinası’nda büyük ve küçük baş hayvanların kesimlerinin ve tasnifi yapılır.<li>
+  
+  </ul>
